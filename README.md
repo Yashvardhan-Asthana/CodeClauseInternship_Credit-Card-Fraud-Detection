@@ -1,7 +1,10 @@
 # Credit Card Fraud Detection System
 
 ## Overview
-This project is a **Fraud Detection System** that detects fraudulent transactions using machine learning. It leverages techniques such as oversampling, ensemble learning, and feature scaling to build an efficient classification system.
+This project is a **Credit Card Fraud Detection**, an intermediate-level project assigned to me as part of my Data Science Internship at CodeClause IT Company. The system detects fraudulent transactions using machine learning techniques, leveraging methods such as oversampling, ensemble learning, and feature scaling to build an efficient and accurate classification model.
+
+I would like to express my gratitude to CodeClause IT Company for providing me with this wonderful opportunity to enhance my skills and knowledge during the internship.
+
 
 ## Features
 - **Multiple Models**: Random Forest, XGBoost, and Logistic Regression.
@@ -14,19 +17,19 @@ This project is a **Fraud Detection System** that detects fraudulent transaction
 - Libraries: `pandas`, `scikit-learn`, `xgboost`, `imbalanced-learn`
 
 ## Dataset
-The dataset is sourced from Kaggle and includes features like amt, city, merchant, and category, with is_fraud as the target column.
+The dataset is sourced from Kaggle and includes features like 'trans_date_trans_time, cc_number, amt, city, state, first_name, last_name, merchant, and category, with is_fraud as the target column.
 
 ## Workflow
+Download Dataset: Searching web and downloaded dataset from Kaggle online data science platform.
 Load Dataset: Load and analyze the dataset for missing values and class distribution.
-Preprocessing: Encode categorical features, balance data using SMOTE, and scale numeric features.
+Preprocessing data: Encode categorical features, balance data using SMOTE, and scale numeric features.
 Train Models: Train Random Forest, XGBoost, Logistic Regression, and a Voting Classifier.
 Evaluate Models: Assess accuracy and other metrics for all models.
 Interactive Prediction: Use the trained Voting Classifier to classify transactions.
 
 ## Output
-Model metrics and evaluation reports.
-Fraud classification based on user input.
+The model takes 'amount', 'city', 'merchant name' and 'category' as input from the user and predicts the output as 'Fraud' or 'Non-Fraud'.
 
 ## Acknowledgments
-Dataset from Kaggle.
-Project inspired by real-world fraud detection challenges.
+Dataset is collected from Kaggle.
+This project is assigned by CodeClause IT Company as a part of 'Data Science Internship'. 
