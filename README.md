@@ -17,7 +17,7 @@ I would like to express my gratitude to CodeClause IT Company for providing me w
 - Libraries: `pandas`, `scikit-learn`, `xgboost`, `imbalanced-learn`
 
 ## Dataset
-The dataset is sourced from Kaggle ([link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)) that includes 5,55,720 credit card entries with the features like 'trans_date_trans_time, cc_num, amt, street, city, zip, state, first_name, last_name, lat, long, merchant, merch_lat, merch_long, city_pop, job, dob, trans_num and category, with is_fraud as the target column.
+The dataset is sourced from Kaggle ([Dataset Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)) that includes 5,55,720 credit card entries with the features like 'trans_date_trans_time, cc_num, amt, street, city, zip, state, first_name, last_name, lat, long, merchant, merch_lat, merch_long, city_pop, job, dob, trans_num and category, with is_fraud as the target column. Due to the large file size of the dataset which is more than 150 MB, I am not able to upload the dataset here on GitHub which allows upload file size only upto 25 MB. But I have provided the link of the Kaggle Dataset which is used in the project.
 
 ## Workflow
 Download Dataset: Searching web and downloaded dataset from Kaggle online data science platform.
