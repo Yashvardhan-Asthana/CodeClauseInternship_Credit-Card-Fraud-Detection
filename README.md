@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection - Intermediate Level Project
 
 ## Overview
-This project is a **Credit Card Fraud Detection**, an intermediate-level project assigned to me as part of my Data Science Internship at CodeClause IT Company. The system detects fraudulent transactions using machine learning techniques, leveraging methods such as oversampling, ensemble learning, and feature scaling to build an efficient and accurate classification model.
+This project is a **Credit Card Fraud Detection**, an intermediate-level project assigned to me as part of my Data Science Internship at **CodeClause** IT Company. The system detects fraudulent transactions using machine learning techniques, leveraging methods such as oversampling, ensemble learning, and feature scaling to build an efficient and accurate classification model.
 
 I would like to express my gratitude to CodeClause IT Company for providing me with this wonderful opportunity to enhance my skills and knowledge during the internship.
 
